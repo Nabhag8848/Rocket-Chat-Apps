@@ -1,0 +1,19 @@
+{
+    "id": "be37bc29-bf3a-4401-b27d-4c2c775e46a1",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "MessageEvent",
+    "nameSlug": "messageevent",
+    "classFile": "MessageEventApp.ts",
+    "description": "Exploring Handlers",
+    "implements": [
+        "IPreMessageSentPrevent",
+        "IPostMessageSent"
+    ]
+}
